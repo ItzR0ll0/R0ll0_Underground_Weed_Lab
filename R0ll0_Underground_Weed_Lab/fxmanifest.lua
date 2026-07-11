@@ -8,7 +8,7 @@ author 'R0ll0'
 description 'Underground Weed Lab MLO'
 
 files {
-    'r0ll0_weed_lab_manifest.ymf',
+    'stream/r0ll0_weed_lab_manifest.ymf',
 
     'stream/[ybn]/*.ybn',
     'stream/[ydr]/*.ydr',
@@ -20,4 +20,4 @@ files {
     'stream/[vanilla]/*.ymap'
 }
 
-data_file 'DLC_ITYP_REQUEST' 'r0ll0_weed_lab_manifest.ymf'
+data_file 'DLC_ITYP_REQUEST' 'stream/r0ll0_weed_lab_manifest.ymf'
