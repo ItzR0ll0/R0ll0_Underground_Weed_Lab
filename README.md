@@ -1,6 +1,4 @@
 # R0ll0_3D
-# JOIN DISCORD FOR MORE MLOs
-https://discord.gg/xafBKUCDcb
 
 ## Coords:
      975.692322, -2359.701172, 31.807373
